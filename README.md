@@ -1,6 +1,4 @@
-# 💸 ReactBudgetProject
-
-📄 [Français 🇫🇷](#francais) | [English 🇬🇧](#english)
+# 💸 ReactBudgetProject [Français 🇫🇷](#francais) | [English 🇬🇧](#english)
 
 ---
 
