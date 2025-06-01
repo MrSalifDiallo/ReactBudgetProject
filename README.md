@@ -1,6 +1,10 @@
 # 💸 ReactBudgetProject [Français 🇫🇷](#francais) | [English 🇬🇧](#english)
 
 ---
+## 🔗 URL / Site En Ligne
+
+👉 [appforbudget.netlify.app](https://appforbudget.netlify.app)
+---
 
 ## 📸 Capture 
 
@@ -41,6 +45,9 @@
 </div>
 
 ---
+
+
+
 
 ## Francais
 
@@ -100,7 +107,7 @@ ReactBudgetProject/
 ├── README.md                  # Ce fichier de documentation
 └── vite.config.js             # Configuration de Vite
 ````
-
+---
 ### 💡Contribution
 
 1. Fork le projet
@@ -108,7 +115,23 @@ ReactBudgetProject/
 3. Commit vos changements (`git commit -m 'Add some AmazingFeature'`)
 4. Push vers la branche (`git push origin feature/AmazingFeature`)
 5. Ouvrir une Pull Request
+---
 
+### ⚙️ Technologies utilisées
+
+- ✅ React.js (frontend)
+- ✅ CSS (style de l’interface)
+- ✅ JavaScript (logique d’interaction)
+
+---
+### ✨ Fonctionnalités principales
+
+- Ajouter des revenus et des dépenses
+- Visualiser l’état du budget en temps réel
+- Supprimer ou modifier une transaction
+- Interface claire et responsive
+
+---
 ### 👤 Auteur
 
 **Salif Diallo**  
@@ -197,6 +220,21 @@ ReactBudgetProject/
 5. Open a Pull Request
 
 ---
+
+### ⚙️ Technologies Used
+
+- ✅ React.js (frontend)
+- ✅ CSS (interface styling)
+- ✅ JavaScript (interaction logic)
+
+---
+### ✨ Main Features
+
+- Add income and expenses  
+- View budget status in real time  
+- Delete or edit a transaction  
+- Clean and responsive interface
+
 
 ### 👤 Author
 
